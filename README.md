@@ -1,6 +1,6 @@
 ### ¡Hola! Me llamo Noé, mucho gusto 😃👋
 ![hola-mundo-pizarra (1)](https://user-images.githubusercontent.com/91269836/134585369-2d31c4a7-27f8-4a11-b6fe-e8af17d02983.gif)
-## sobre mi: 👇
+## Sobre mi: 👇
 - Soy de Cajamrca – Perú 🌄
 - Actualmente estudio Ciencia de la Computación en UTEC 💻
 - Me gusta la música clasica y el Rock and roll 🎸 
@@ -22,9 +22,11 @@
  - Tener muchos amigos 👦👮👨👩 
  - viajar por el mundo 🌎
 ## Donde me puedes contactar: 💬
-- [Facebook](https://www.facebook.com/noe.paredes.712)
-- [Telegram](@noeparedes123)
+- [Facebook](https://www.facebook.com/noe.paredes.712) 👓
+- [Telegram](@noeparedes123) 🕶
+- [Instagram](https://www.instagram.com/rauraico_) 🥽
 
+![matrix (1) (1)](https://user-images.githubusercontent.com/91269836/134588419-0768309e-6775-417a-8f31-672e7c848bf2.gif)
 
 
 <!--
