@@ -2,8 +2,9 @@
 ![hola-mundo-pizarra (1)](https://user-images.githubusercontent.com/91269836/134585369-2d31c4a7-27f8-4a11-b6fe-e8af17d02983.gif)
 ## Sobre mi: 👇
 - Soy de Cajamarca – Perú 🌄
+- Tengo 18 años 🕺
 - Actualmente estudio Ciencia de la Computación en UTEC 💻
-- Me gusta la música clásica y el Rock and roll 🎸 
+- Me gusta la música clásica y el rock and roll 🎸 
 - Me encata la navidad 🎄🎅
 ## ¿Que lenguaje de programación estoy aprendiendo? 📚
 - Actualmente estoy aprendiendo Python 🐍
@@ -25,6 +26,7 @@
 - [Facebook](https://www.facebook.com/noe.paredes.712) 👓
 - [Telegram](@noeparedes123) 🕶
 - [Instagram](https://www.instagram.com/rauraico_) 🥽
+- [Correo electronico](paredesnoe262@gmail.com) 📧
 
 ![matrix (1) (1)](https://user-images.githubusercontent.com/91269836/134588419-0768309e-6775-417a-8f31-672e7c848bf2.gif)
 
