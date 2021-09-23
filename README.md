@@ -20,7 +20,7 @@
  - Terminar mi carrera profecional en UTEC 🏦
  - Ayudar a solucionar problemas en mi socoedad 🌇
  - Tener muchos amigos 👦👮👨👩 
- - viajar por el mundo 🌎
+ - Viajar por el mundo 🌎
 ## Donde me puedes contactar: 💬
 - [Facebook](https://www.facebook.com/noe.paredes.712) 👓
 - [Telegram](@noeparedes123) 🕶
