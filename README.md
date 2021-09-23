@@ -28,7 +28,7 @@
 
 ![matrix (1) (1)](https://user-images.githubusercontent.com/91269836/134588419-0768309e-6775-417a-8f31-672e7c848bf2.gif)
 
-##  Comentario: @andreaUTEC
+##  Comentario de: andreaUTEC
 Me agrada la página de mi compañero. Considero que la información brindada es específica y concreta, me muestra sus gustos, lo que sabe y aún mejor lo que le gustaría saber. Además muestra sus metas y eso me hace saber cuan perseverante es con sus objetivos.
 
 <!--
