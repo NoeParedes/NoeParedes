@@ -15,7 +15,7 @@
 - Kotlin 
 - Entre otros...
 ## Herramientas que uso 	🔧
-- Rep.it
+- Replit
 ## Metas 🏁 
  - Terminar mi carrera profecional en UTEC 🏦
  - Ayudar a solucionar problemas en mi socoedad 🌇
@@ -28,7 +28,8 @@
 
 ![matrix (1) (1)](https://user-images.githubusercontent.com/91269836/134588419-0768309e-6775-417a-8f31-672e7c848bf2.gif)
 
-
+##  Comentario: @andreaUTEC
+Me agrada la página de mi compañero. Considero que la información brindada es específica y concreta, me muestra sus gustos, lo que sabe y aún mejor lo que le gustaría saber. Además muestra sus metas y eso me hace saber cuan perseverante es con sus objetivos.
 
 <!--
 **NoeParedes/NoeParedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
