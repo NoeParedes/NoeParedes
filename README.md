@@ -22,13 +22,8 @@ Entre otros...
  - viajar por el mundo
 
 ## Donde me puedes contactar:
-
-- Facebook: [facebook.com/fernandodilland](https://www.facebook.com/FernandoDilland)
-- Facebook: [https://www.facebook.com/noe.paredes.712] (https://www.facebook.com/noe.paredes.712)
-- 
-
-## holaaaaa
-¡Hola! Me llamo Noé, mucho gusto.
+- Facebook: [https://www.facebook.com/noe.paredes.712](https://www.facebook.com/noe.paredes.712)
+- Telegram: [@noeparedes123](@noeparedes123)
 
 
 <!--
