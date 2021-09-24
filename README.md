@@ -24,7 +24,7 @@
 ![descarga (6)](https://user-images.githubusercontent.com/91269836/134603073-ab47d6e6-e91e-479a-ae9e-516ac36478a3.png)
 
 ## Metas 🏁 
- - Terminar mi carrera profecional en UTEC 🏦
+ - Terminar mi carrera profesional en UTEC 🏦
  - Ayudar a solucionar problemas en mi sociedad con lo aprendido en mi carrera profesional 🌇
  - Tener muchos amigos 👦👮👨👴👩 
  - Viajar por el mundo 🌎
