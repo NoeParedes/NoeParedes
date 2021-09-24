@@ -33,7 +33,7 @@
 - [Facebook](https://www.facebook.com/noe.paredes.712) 👓
 - [Telegram](@noeparedes123) 🕶
 - [Instagram](https://www.instagram.com/rauraico_) 🥽
-- Correo electronico: paredesnoe262@gmail.com 📧
+- Correo electrónico: paredesnoe262@gmail.com 📧
 
 ![matrix (1) (1)](https://user-images.githubusercontent.com/91269836/134588419-0768309e-6775-417a-8f31-672e7c848bf2.gif)  ![replit](https://user-images.githubusercontent.com/91269836/134599502-ed698ccc-ae3f-4a78-b8d6-6960d278692b.jpg)
  ![images](https://user-images.githubusercontent.com/91269836/134599455-7a0adf6c-4fc2-40ba-82a8-040274d9bdf2.png)
