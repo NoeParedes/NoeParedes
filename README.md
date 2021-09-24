@@ -1,6 +1,6 @@
 ### ¡Hola! Me llamo Noé, mucho gusto 😃👋
 ![hola-mundo-pizarra (1)](https://user-images.githubusercontent.com/91269836/134585369-2d31c4a7-27f8-4a11-b6fe-e8af17d02983.gif)
-## Sobre mi: 👇
+## Sobre mí: 👇
 - Soy de Cajamarca – Perú 🌄
 - Tengo 18 años 🕺
 - Actualmente estudio Ciencia de la Computación en UTEC 💻
