@@ -8,27 +8,37 @@
 - Me encata la navidad 🎄🎅
 ## ¿Que lenguaje de programación estoy aprendiendo? 📚
 - Actualmente estoy aprendiendo Python 🐍
+
+![descarga (5)](https://user-images.githubusercontent.com/91269836/134602969-1827a6a2-a51d-40b5-beb5-75ca22c3ea5a.png)
+
 ## ¿Que lenguaje de programación me gustaría aprender? 📚
-- Java 
-- JavaScript
-- C/C++
-- Matlab
-- Kotlin 
-- Entre otros...
+- Java 🎮
+- JavaScript 💾
+- C/C+ 💻
+- Matlab 🔌
+- Kotlin 📟
+- Entre otros... 👾 🎲 🎬 🔬 🎼 
 ## Herramientas que uso 	🔧
-- Replit
+- Actualmente uso Replit 📡
+
+![descarga (6)](https://user-images.githubusercontent.com/91269836/134603073-ab47d6e6-e91e-479a-ae9e-516ac36478a3.png)
+
 ## Metas 🏁 
  - Terminar mi carrera profecional en UTEC 🏦
  - Ayudar a solucionar problemas en mi sociedad 🌇
  - Tener muchos amigos 👦👮👨👩 
  - Viajar por el mundo 🌎
+ - Aprender a nadar 🏊‍♂
 ## Dónde me puedes contactar: 💬
 - [Facebook](https://www.facebook.com/noe.paredes.712) 👓
 - [Telegram](@noeparedes123) 🕶
 - [Instagram](https://www.instagram.com/rauraico_) 🥽
-- [Correo electronico](paredesnoe262@gmail.com) 📧
+- Correo electronico: paredesnoe262@gmail.com 📧
 
-![matrix (1) (1)](https://user-images.githubusercontent.com/91269836/134588419-0768309e-6775-417a-8f31-672e7c848bf2.gif)
+![matrix (1) (1)](https://user-images.githubusercontent.com/91269836/134588419-0768309e-6775-417a-8f31-672e7c848bf2.gif)  ![replit](https://user-images.githubusercontent.com/91269836/134599502-ed698ccc-ae3f-4a78-b8d6-6960d278692b.jpg)
+ ![images](https://user-images.githubusercontent.com/91269836/134599455-7a0adf6c-4fc2-40ba-82a8-040274d9bdf2.png)
+ ![descarga (4)](https://user-images.githubusercontent.com/91269836/134600025-5156cbbe-c7de-492b-b7ff-02e0ecdc5e01.png)
+
 
 ##  Comentario de: andreaUTEC
 Me agrada la página de mi compañero. Considero que la información brindada es específica y concreta, me muestra sus gustos, lo que sabe y aún mejor lo que le gustaría saber. Además muestra sus metas y eso me hace saber cuan perseverante es con sus objetivos.
