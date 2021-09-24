@@ -29,7 +29,7 @@
  - Tener muchos amigos 👦👮👨👩 
  - Viajar por el mundo 🌎
  - Aprender a nadar 🏊‍♂
-## Dónde me puedes contactar: 💬
+## Dónde me pueden contactar: 💬
 - [Facebook](https://www.facebook.com/noe.paredes.712) 👓
 - [Telegram](@noeparedes123) 🕶
 - [Instagram](https://www.instagram.com/rauraico_) 🥽
