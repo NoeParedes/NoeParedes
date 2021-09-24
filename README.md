@@ -6,12 +6,12 @@
 - Actualmente estudio Ciencia de la Computación en UTEC 💻
 - Me gusta la música clásica y el rock and roll 🎸 
 - Me encata la navidad 🎄🎅
-## ¿Que lenguaje de programación estoy aprendiendo? 📚
+## ¿Qué lenguaje de programación estoy aprendiendo? 📚
 - Actualmente estoy aprendiendo Python 🐍
 
 ![descarga (5)](https://user-images.githubusercontent.com/91269836/134602969-1827a6a2-a51d-40b5-beb5-75ca22c3ea5a.png)
 
-## ¿Que lenguaje de programación me gustaría aprender? 📚
+## ¿Qué lenguaje de programación me gustaría aprender? 📚
 - Java 🎮
 - JavaScript 💾
 - C/C+ 💻
