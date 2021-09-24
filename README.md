@@ -25,8 +25,8 @@
 
 ## Metas 🏁 
  - Terminar mi carrera profecional en UTEC 🏦
- - Ayudar a solucionar problemas en mi sociedad 🌇
- - Tener muchos amigos 👦👮👨👩 
+ - Ayudar a solucionar problemas en mi sociedad con lo aprendido en mi carrera profesional 🌇
+ - Tener muchos amigos 👦👮👨👴👩 
  - Viajar por el mundo 🌎
  - Aprender a nadar 🏊‍♂
 ## Dónde me pueden contactar: 💬
